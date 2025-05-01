@@ -1,8 +1,7 @@
 ### Olá ! Eu sou o Alex Thomazoli
 
 
-- 🔭 Atualmente estou a procura da primeira vaga como Desenvolvimento de Software.
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas 3° Semestre
-- 🌱 Algumas tecnologias estudadas, C#, JavaScript, .Net.
+- 🔭 Atualmente estou a procura da primeira vaga como Analista de Cibersegurança
+- 🌱 Estudo em diversas plataformas free, como Fortinet, YouTube e etc.
+- Brasileiro vivendo na Espanha
 - :email: Contate-me no email : alexthomazoli@outlook.com
-- :iphone: Celular (15) 99190-1158
